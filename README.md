@@ -1,4 +1,4 @@
-## Comprehensive Human Resources Analytics Dashboard
+## Comprehensive Human Resources Analytics Dashboard - Tableau
 
 This Tableau dashboard provides a robust and interactive platform for HR professionals to monitor, analyze, and strategize workforce management. Built using a custom-generated dataset, this dashboard bridges the gap between raw HR data and actionable insights, empowering organizations to make informed decisions.
 
